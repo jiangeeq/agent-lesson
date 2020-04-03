@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lesson-01/agent-01/agent-01.iml" filepath="$PROJECT_DIR$/lesson-01/agent-01/agent-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson-03/agent-03/agent-03.iml" filepath="$PROJECT_DIR$/lesson-03/agent-03/agent-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agent-lesson.iml" filepath="$PROJECT_DIR$/agent-lesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson-01/app-01/app-01.iml" filepath="$PROJECT_DIR$/lesson-01/app-01/app-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson-03/app-03/app-03.iml" filepath="$PROJECT_DIR$/lesson-03/app-03/app-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson-05/app-05/app-05.iml" filepath="$PROJECT_DIR$/lesson-05/app-05/app-05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson-07/bytebuddy.iml" filepath="$PROJECT_DIR$/lesson-07/bytebuddy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpwalk-track/jpwalk-track.iml" filepath="$PROJECT_DIR$/jpwalk-track/jpwalk-track.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson-01/lesson-01.iml" filepath="$PROJECT_DIR$/lesson-01/lesson-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson-03/lesson-03.iml" filepath="$PROJECT_DIR$/lesson-03/lesson-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson-04/lesson-04.iml" filepath="$PROJECT_DIR$/lesson-04/lesson-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson-05/lesson-05.iml" filepath="$PROJECT_DIR$/lesson-05/lesson-05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson-05/trace-agent/trace-agent.iml" filepath="$PROJECT_DIR$/lesson-05/trace-agent/trace-agent.iml" />
+    </modules>
+  </component>
+</project>

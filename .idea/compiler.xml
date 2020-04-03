@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="app-01" />
+        <module name="agent-03" />
+        <module name="agent-01" />
+        <module name="lesson-07" />
+        <module name="jpwalk-track" />
+        <module name="lesson-04" />
+        <module name="trace-agent" />
+        <module name="bytebuddy" />
+        <module name="app-05" />
+        <module name="app-03" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="agent-01" target="1.8" />
+      <module name="agent-03" target="1.8" />
+      <module name="agent-lesson" target="1.8" />
+      <module name="app-01" target="1.8" />
+      <module name="app-03" target="1.8" />
+      <module name="app-05" target="1.8" />
+      <module name="bytebuddy" target="1.8" />
+      <module name="example01" target="1.8" />
+      <module name="jpwalk-track" target="1.8" />
+      <module name="lesson-01" target="1.8" />
+      <module name="lesson-03" target="1.8" />
+      <module name="lesson-04" target="1.8" />
+      <module name="lesson-05" target="1.8" />
+      <module name="lesson-07" target="1.8" />
+      <module name="trace-agent" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
