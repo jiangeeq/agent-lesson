@@ -2,6 +2,7 @@ package pers.agent.main.bytebuddy.example;
 import net.bytebuddy.ByteBuddy;
 import net.bytebuddy.dynamic.ClassFileLocator;
 import net.bytebuddy.pool.TypePool;
+import pers.agent.main.bytebuddy.foo.Bar;
 
 /**
  * 操作没有加载的类
@@ -13,7 +14,7 @@ public class NoClassLoadDemo {
         TypePool typePool = TypePool.Default.of(NoClassLoadDemo.class.getClassLoader());
         new ByteBuddy()
                 // do not use 'Bar.class'
-                .redefine(typePool.describe("foo.Bar").resolve(),
+                .redefine(typePool.describe("pers.agent.main.bytebuddy.foo.Bar").resolve(),
                         ClassFileLocator.ForClassLoader.of(NoClassLoadDemo.class.getClassLoader()))
                 // defining fields
                 .defineField("qux", String.class)
